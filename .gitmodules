@@ -1,0 +1,3 @@
+[submodule "mobileprj"]
+	path = mobileprj
+	url = https://github.com/wkrup/mobileprj.git
